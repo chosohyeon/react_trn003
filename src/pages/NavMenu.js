@@ -2,7 +2,7 @@ import React from 'react'
 import { Link, NavLink } from 'react-router-dom';
 
 const NAVLINK = [
-    { content: "Home", link: "/home" },
+    { content: "Home", link: "/" },
     { content: "About", link: "/about" },
     { content: "Shop", link: "/shop" },
     { content: "Community", link: "/community" }
