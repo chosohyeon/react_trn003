@@ -17,7 +17,7 @@ const Header = () => {
       </div>
       <div className='menu'>
         <h1>
-          <Link to='/home'>
+          <Link to='/'>
             <img src={`${process.env.PUBLIC_URL}/assets/img/logo.png`} alt='' />
           </Link>
         </h1>
